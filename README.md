@@ -1,2 +1,3 @@
-# psch343-uic
-Course materials for PSCH 343: Statistical Methods in Behavioral Science at UIC. This repository contains lecture notes, assignments, and resources that I have created, adapted, and curated for teaching.
+# Statistical Methods in Behavioral Science
+* Please check the Syllabus to get started.
+* Audience: Undergraduate students majoring in psychology or neuroscience who want to learn and apply statistics from scratch. No prior programming experience is assumed.
